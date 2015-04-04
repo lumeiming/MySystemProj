@@ -1,0 +1,10 @@
+.\obj\mempool.o: ..\..\document\RT_thread\rt-thread\src\mempool.c
+.\obj\mempool.o: ..\..\document\RT_thread\rt-thread\include\rthw.h
+.\obj\mempool.o: ..\..\document\RT_thread\rt-thread\include\rtthread.h
+.\obj\mempool.o: .\rtconfig.h
+.\obj\mempool.o: ..\..\document\RT_thread\rt-thread\include\rtdebug.h
+.\obj\mempool.o: ..\..\document\RT_thread\rt-thread\include\rtdef.h
+.\obj\mempool.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\obj\mempool.o: ..\..\document\RT_thread\rt-thread\include\rtservice.h
+.\obj\mempool.o: ..\..\document\RT_thread\rt-thread\include\rtm.h
+.\obj\mempool.o: ..\..\document\RT_thread\rt-thread\include\rtthread.h

@@ -1,0 +1,11 @@
+.\obj\startup.o: applications\startup.c
+.\obj\startup.o: ..\..\document\RT_thread\rt-thread\include\rthw.h
+.\obj\startup.o: ..\..\document\RT_thread\rt-thread\include\rtthread.h
+.\obj\startup.o: .\rtconfig.h
+.\obj\startup.o: ..\..\document\RT_thread\rt-thread\include\rtdebug.h
+.\obj\startup.o: ..\..\document\RT_thread\rt-thread\include\rtdef.h
+.\obj\startup.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\obj\startup.o: ..\..\document\RT_thread\rt-thread\include\rtservice.h
+.\obj\startup.o: ..\..\document\RT_thread\rt-thread\include\rtm.h
+.\obj\startup.o: ..\..\document\RT_thread\rt-thread\include\rtthread.h
+.\obj\startup.o: drivers\board.h
